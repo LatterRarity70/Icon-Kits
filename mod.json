@@ -1,0 +1,30 @@
+{
+	"geode": "4.10.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "lr70.icon-kits",
+	"name": "Icon Kits",
+	"version": "v1.0.0",
+	"developer": "LatterRarity70",
+	"description": "Create and switch between icon kits with ease!",
+	"links": {
+		"community": "https://discord.gg/6SxAbk3bTA",
+		"homepage": "https://t.me/LatterRarity70",
+		"source": "https://github.com/LatterRarity70/Icon-Kits"
+	},
+	"tags": [ "interface", "enhancement" ],
+	"dependencies": {
+		"geode.node-ids": {
+			"version": ">=1.20.1",
+			"importance": "required"
+		},
+		"hiimjustin000.more_icons": {
+			"version": ">=v1.16.0",
+			"importance": "suggested"
+		}
+	}
+}
